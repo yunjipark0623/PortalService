@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/portalService/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/hamcrest-library-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/log4j-to-slf4j-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/lombok-1.18.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/portalService/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
